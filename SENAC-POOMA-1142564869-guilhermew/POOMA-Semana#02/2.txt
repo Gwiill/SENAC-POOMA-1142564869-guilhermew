@@ -1,0 +1,25 @@
+Vimos que a orientacao  a Objetos não é  apenas uma técnica, mas uma filosofia que nos permite modelar o mundo real em nossos pro-gramas de forma mais precisa e eficiente. na aula de hoje, iremos abordar os conceitos essenciais como, classe, objeto, atributo e método. Vimos também que, no processo de solução de um problema, devemos aplicar a separação de classes, conforme o domínio do problema.
+
+Neste cenário pede:
+Elaboar uma lista de Classes, com suas respectivas características e comportamentos (Atributos/métodos), para o cenário de negócio apontado abaixo:
+
+Cenárionecessidade de negócio (Situação Problema):
+Sistema de Gerenciamento de Sessões e Vendas de Ingressos Online para uma Sala de Cinema
+Descrição:
+
+Uma rede de cinemas famosa deseja otimizar seu processo de vendas de ingressos e gerenciamento de sessões, proporcionando aos clientes a conveniência de comprar ingressos online. Eles também desejam manter um registro detalhado de todas as sessões, assentos disponíveis e vendas realizadas.
+necessidades de negócio:
+Gerenciamento de Sessões:
+Registrar informações sobre as sessões de filmes, incluindo data, horário de início, duração, título do filme, classificação indicativa, gênero e outras informações relevantes.
+Vendas de Ingressos Online:
+Os clientes devem ser capazes de navegar pelas sessões disponíveis, escolher o filme e o horário desejados, selecionar os assentos e efetuar o pagamento online.
+Seleção de Assentos:
+O sistema deve permitir que os clientes escolham assentos específicos para as sessões, exibindo um mapa da sala de cinema com assentos disponíveis e ocupados.
+Preços Diferenciados:
+Pode haver diferentes preços de ingressos com base em critérios como dia da semana, horário da sessão, idade do cliente (desconto para estudantes, idosos, crianças, etc.) e tipo de assento.
+Reservas
+Os clientes devem ter a opção de reservar assentos por um curto período de tempo enquanto completam o processo de pagamento.
+Informação de Sessões;
+Deverá disponibilizar consulta de filmes por título, elenco de atores, tipo de filme, duração, lançamentos, etc
+Gestão de Vendas:
+Rastrear todas as vendas de ingressos, incluindo informações sobre o cliente, sessão, assentos selecionados e preço total.
