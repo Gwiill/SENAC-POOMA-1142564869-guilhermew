@@ -1,0 +1,23 @@
+Atividade-Dupla-Entrega#01-Caso de Uso
+Arquivos anexados:
+Arquivo MODELO-Especificação do caso de uso.pdf (269,201 KB)
+A sua dupla deverá produzir o caso de uso do sistema que foi designado para sua dupla desenvolver.
+Em um único PDF, deverão ser produzidos os seguintes elementos:
+Descrição do domínio do problema
+Lista de requisitos funcionais e não funcionais
+Diagrama do caso de uso 
+Descritivo do caso de uso (Veja modelo "MODELO-Especificação do caso de uso.pdf" anexo)
+
+Importante:
+ Este documento (PDF) deverá ter a seguinte estrutura:
+Capa (identificação do trabalho:
+Nomde da instituição
+Identificação do tema (sistema)
+Componentes da Dupla
+nome da disciplina,. professor, data, etc
+Descrição do domínio do problema
+Lista de requisitos funcionais e não funcionais
+Diagrama do caso de uso 
+Descritivo do caso de uso
+Data Entrega: 31/08/2023 - 23h:59
+Entregas feitas após este prazo, as notas serão descontada (3 pontos)
