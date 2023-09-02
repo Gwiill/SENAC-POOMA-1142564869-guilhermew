@@ -23,3 +23,5 @@ Informação de Sessões;
 Deverá disponibilizar consulta de filmes por título, elenco de atores, tipo de filme, duração, lançamentos, etc
 Gestão de Vendas:
 Rastrear todas as vendas de ingressos, incluindo informações sobre o cliente, sessão, assentos selecionados e preço total.
+
+Guilherme Wilson 
