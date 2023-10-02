@@ -1,0 +1,19 @@
+À aula #07 abordamos os elementos do conceito encapsulamento, onde vimos a implementação destes conceitos  na linguagem Java:
+métedos get e set
+modificadores de acesso
+tipos de Acomplamento
+
+Neste contexto, a sua dupla deverá Demonstrar a implementação destes conceitos em seu projeto.
+Deverão ser produzidos os seguintesartefatos:
+Diagrama UML de todas as classes
+Implementação Java 
+docucumento, no formato PDF demonstrativo
+Diagrama de caso de uso
+Diagrama de classes
+os pontos do código que implementam   o encapsulamento
+Explicar os pontos do código que atendem ao baixo acoplamento das classes
+
+ 
+ Atenção para as entregas.:
+Todos os artefatos (fonte Java e PDF) deverão  ser entregues em gitHub pasta da semana #7
+Assinalar no Black (nesta atividade) a entrega; somente o texto "OK feito".
