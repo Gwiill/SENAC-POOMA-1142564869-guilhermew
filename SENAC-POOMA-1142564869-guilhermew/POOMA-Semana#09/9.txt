@@ -1,0 +1,11 @@
+Este intrumento  N1 tem como objetivo avaliar o aluno em seu desenvolvimento e absorção dos conceitos dos paradigmas da orientação a objetos.
+
+Esta é  uma avaliação Individual, porém os elementos desta, foram desenvolvidos em conjunto com outro colega (Duplas).
+
+A especificação e regras da avaliação constam em arquivo anexo. 
+
+IMPORTANTE:
+
+                 A presença em sala de aula é obrigatória, para validade da avaliação o aluno deverá assinar lista de presença. 
+
+Boa prova
